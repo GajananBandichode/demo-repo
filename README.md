@@ -7,3 +7,6 @@ hi
 hello
 bye 
 bye
+hello
+hi
+hi
